@@ -20,3 +20,4 @@ if(mayorl1>mayorl2){
 else{
     console.log("El mayor es: ", mayorl2);
 }
+ 
